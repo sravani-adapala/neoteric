@@ -4,4 +4,11 @@ public class Hello {
     public Hello(string hellomessage) {
         this.hellomessage = hellomessage;
     }
+<<<<<<< Updated upstream
+=======
+
+    hellomessage h1=new hellomessage();
+    system.out.println("stash changes");
+
+>>>>>>> Stashed changes
 }
